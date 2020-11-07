@@ -1,0 +1,131 @@
+
+
+
+
+
+
+
+
+
+
+
+nav.navbar .nav-item .nav-link {
+	color: #fff;
+	position: relative;
+	text-decoration: none;
+	padding: 0;
+	font-weight: 600;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+/* style pour le premier navbar */
+
+.bios{
+	color: #fff;
+	
+}
+
+
+.mr-auto {
+    margin-right: auto !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Style pour le bouton qui ramène en haut de page */
+
+
+
+#meilleur{
+	position: fixed;
+	right: 20px;
+    bottom: 10px;
+    font-size: 30px;
+    background-color: transparent;
+}
+
+.best{    
+    background: #fff;
+    padding: 50px;
+    
+   
+}
+.best img{
+    clip:rect(0,108px,45px,0);
+    width: 420px;
+    height: 400px;
+    box-shadow: 0 15px 30px rgba(102, 113, 228, 0.13);
+}
+
+
+.single-promo {
+	padding: 50px;
+	background: #fff;
+	border-radius: 5px;
+	box-shadow: 0 15px 30px rgba(102, 113, 228, 0.13);
+	position: relative;
+	;
+	margin-bottom: 30px
+}
+
+.single-promo {
+	text-align: center
+}
+
+
+
+
+
+
+
+
+#plus {display: none;}
+
+
+
+
+/* sytyle pour la page fullsarkdevelopper  */
+
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .bg {
+    /* The image used */
+    background:url(../img/interviews.jpg);
+  
+    /* Full height */
+    /* margin-top: 50px; */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+.full-description{
+    
+}
+
+  /* Fin du sytyle pour la page fullsarkdevelopper  */
+
+
+
+
